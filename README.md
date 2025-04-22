@@ -13,7 +13,7 @@ It includes everything from dataset creation to multi-head attention and text ge
 
 ## 📌 Project Details
 
-- 🔢 **Model size:** ~162M parameters  
+- 🔢 **Model size:** ~124M parameters  
 - 🧱 **Architecture:** 12 layers, 12 heads, 768 hidden size  
 - 🧠 **Vocabulary size:** 50257 (GPT-2 tokenizer from `tiktoken`)  
 - 🕓 **Training epochs:** 100  
